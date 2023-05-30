@@ -1,0 +1,15 @@
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\bin\Debug\net7.0\Result_Cod.exe
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\bin\Debug\net7.0\Result_Cod.deps.json
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\bin\Debug\net7.0\Result_Cod.runtimeconfig.json
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\bin\Debug\net7.0\Result_Cod.dll
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\bin\Debug\net7.0\Result_Cod.pdb
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\obj\Debug\net7.0\Result_Cod.csproj.AssemblyReference.cache
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\obj\Debug\net7.0\Result_Cod.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\obj\Debug\net7.0\Result_Cod.AssemblyInfoInputs.cache
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\obj\Debug\net7.0\Result_Cod.AssemblyInfo.cs
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\obj\Debug\net7.0\Result_Cod.csproj.CoreCompileInputs.cache
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\obj\Debug\net7.0\Result_Cod.dll
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\obj\Debug\net7.0\refint\Result_Cod.dll
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\obj\Debug\net7.0\Result_Cod.pdb
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\obj\Debug\net7.0\Result_Cod.genruntimeconfig.cache
+D:\GEEKBRANS\1 блок\задачи ДЗ\Dz_Result\Result_Cod\obj\Debug\net7.0\ref\Result_Cod.dll
